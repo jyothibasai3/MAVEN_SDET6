@@ -12,6 +12,7 @@ public class ReadingTheDataFromCommandLineTest {
 		System.out.println(URL);
 		System.out.println(UN);
 		System.out.println(PWD);
+		System.out.println("hi this is jyothi basai");
 	}
 	
 	@Test(groups ="regression")
