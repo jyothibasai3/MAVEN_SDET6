@@ -19,7 +19,9 @@ public class ReadingTheDataFromCommandLineTest {
 	
 	public void regression()
 	{
-		System.out.println("regression test");	
+		System.out.println("regression test");
+		System.out.println("jyothi doing regression test");	
+		
 	}
 
 }
